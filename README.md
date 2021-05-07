@@ -26,7 +26,7 @@ In my last role, I managed websites that would allow users to upload an image. O
 We tried implementing an automated rejection mechanism that could give users instant feedback on their image but were not able to get it working well enough. I thought this could be an opportunity for me to see how well I could do with something similar.
 
 ## File Descriptions
-- Capstone Project - Using Data Science to Classify Dog Images.ipynb - This is the Jupyter Notebook storing my code and markdown related to the project.
+- dog_app.ipynb - This is the Jupyter Notebook storing my code and markdown related to the project.
 - README.md - This file.
 
 ## How to Interact with This Project
