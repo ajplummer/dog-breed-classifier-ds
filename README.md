@@ -32,6 +32,9 @@ We tried implementing an automated rejection mechanism that could give users ins
 ## How to Interact with This Project
 The best way to interact with this project is to open up the Notebook and browse through the code. The Notebook was saved with all code run so you can just look at the output (and my commentary) without having to re-run everything yourself. Feel free to edit the code and re-run if desired.
 
+## Results
+Utilizing a pre-trained Resnet-50 model in my CNN, I was able to attain ~80% accuracy on the test dataset in my Notebook. This shows me that building a successful model for an automated rejection mechanism is indeed possible and has given me the confidence to move forward with doing so.
+
 ## Licensing, Authors, Acknowledgements, Etc.
 The data was provided to me by Udacity.
 
